@@ -31,4 +31,4 @@ You can refer to [this example](http://www.openradar.me/11905408) from Craig Hoc
 ## Project Overview
 Checkout [README.md](https://github.com/sakshigupta265/diabetes_prediction/blob/main/README.md)
 
-## Thanks! 
+## Thanks! ✨
