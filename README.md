@@ -165,3 +165,4 @@ If you are curious about kNN algorithms, you can learn more from [StatQuest](htt
 I would love to recieve your contributions towards this project. Refer to [CONTRIBUTION.md](https://github.com/sakshigupta265/diabetes_prediction/blob/main/CONTRIBUTION.md) for more details.
 
 ## Thanks! ✨
+
